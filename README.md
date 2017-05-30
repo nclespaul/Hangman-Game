@@ -1,4 +1,5 @@
 # Hangman-Game
 
 - Author:  Darrell Freeman
-- Date 
+- Date:  March 26, 2017
+- Tools Used 
